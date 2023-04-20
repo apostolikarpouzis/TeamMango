@@ -31,5 +31,6 @@ https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-
 Enrollment by School and Neighborhood (2020-2021):   
 https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment/resource/7b0660d1-c812-496d-ab0a-8560902e9e70
 
-
-Submetric: ....
+Submetric: Playgrounds
+Playgrounds in Pittsburgh:
+https://data.wprdc.org/dataset/playgrounds 
