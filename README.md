@@ -4,7 +4,7 @@
 
 In this Notebook, we chose to analyze the metric of safety to determine which neighborhood in Pittsburgh is the best. We each took on a submetric of safety, and used data to come to our own conclusion about the best neighborhood in Pittsburgh. 
 
-**Group Members**
+**Group Members  **   
 Apostoli Karpouzis  
 amk367
 
@@ -14,7 +14,7 @@ ssc59
 Kara DiPasquale
 kkd15
 
-**Submetrics and Data**
+**Submetrics and Data  **
 Submetric: Crime Rates
 
 Every crime reported in the last 30 days separated by Pittsburgh neighborhoods:   
