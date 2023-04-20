@@ -1,5 +1,6 @@
 # TeamMango
-Big Ideas Final Project: What Is The Safest Neighborhood in Pittsburgh?
+
+**Big Ideas Final Project: What Is The Safest Neighborhood in Pittsburgh?**
 
 Apostoli Karpouzis  
 amk367
@@ -7,8 +8,8 @@ amk367
 Srushti Chavan  
 ssc59
 
-Kara ....
-email
+Kara DiPasquale
+kkd15
 
 Submetric: Least Crime
 
